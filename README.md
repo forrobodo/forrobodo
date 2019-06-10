@@ -4,7 +4,7 @@
 ## Casos políticos
 
 | Data caso | Caso                  | Partido   | Figuras Centrais | Descrição  | Links | Cronologia judicial e política  |
-| --------- | --------------------- | --------- | ---------------- | ---------- | -------- | ----- | ------------------------------- |
+| --------- | --------------------- | --------- | ---------------- | ---------- | ----- | ------------------------------- |
 | 2006-2015 | Operação Marquês      | PS        | José Sócrates (PM) | 31 crimes. 34 M€ de luvas, 28 arguidos (9 são empresas) | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) | 2017-10-11: Acusação formal. 2019-01-28: Instrução. |
 | 2006-2015 | Processo Face Oculta  | PS        | Armando Vara (Ex-ministro), Rui Pedro Soares (ex-administrador da PT). | Corrupção. Tráfico de influência. Branqueamento de capitais. Outros. 36 arguidos (2 são empresas) condenados. 11 com prisão efectiva. 1.2m€ de indemnizações. | [1](https://pt.wikipedia.org/wiki/Processo_Face_Oculta) | 2011-11-08: Início do Julgamento. 2014-09-05: Condenação. 2018-12-27: Trânsito em Julgado. 2019-04-30: Vara desfilia-se do PS.|
 
