@@ -5,7 +5,7 @@
 
 | teste | teste 2 | teste 3 |
 | ----- | ------- | ------- |
-| teste | teste 2 | teste 3 | 
+| teste | teste 2 | teste 3 |
 
 | Data caso | Caso              | Partido   | Figuras Centrais | Dimensão | Links | Cronologia judicial e política  |
 | --------- | ----------------- | --------- | ---------------- | -------- | ----- | ----------------- | ---------------- |
