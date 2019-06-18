@@ -27,14 +27,14 @@
 
 | Datas     | Caso                  | Descrição | Figuras Centrais | Partido | Cronologia judicial e política  | Links |
 | --------- | --------------------- | --------- | ---------------- | ------- | ------------------------------- | ----- |
-| 2004-2004 | Caso das contrapartidas dos Submarinos| Fraude na compra de 2 submarinos. Entre 1 e 30 M€. | **Paulo Portas** (Ministro Defesa), como testemunha. | CDS | 2014-02-14: Tribunal absolve os 10 arguidos no caso das contrapartidas dos submarinos. 2014-12-17: MP absolve os 10 arguidos no caso das contrapartidas dos submarinos. | [1](https://pt.wikipedia.org/wiki/Caso_das_contrapartidas_dos_submarinos), [2](https://www.publico.pt/2014/02/14/sociedade/noticia/absolvidos-todos-os-dez-arguidos-no-processo-dos-submarinos-1623689)|
+| 2004-2004 | Caso das contrapartidas dos Submarinos| Fraude na compra de 2 submarinos. Entre 1 e 30 M€. | **Paulo Portas** (Ministro Defesa), como testemunha. | CDS | 2014-02-14: Tribunal absolve os 10 arguidos no caso das contrapartidas dos submarinos. | [1](https://pt.wikipedia.org/wiki/Caso_das_contrapartidas_dos_submarinos), [2](https://www.publico.pt/2014/02/14/sociedade/noticia/absolvidos-todos-os-dez-arguidos-no-processo-dos-submarinos-1623689)|
 
 
 ### Arquivados
 
 | Datas     | Caso                  | Descrição | Figuras Centrais | Partido | Cronologia judicial e política  | Links |
 | --------- | --------------------- | --------- | ---------------- | ------- | ------------------------------- | ----- |
-| 2004-2004 | Caso dos Submarinos   | Fraude na compra de 2 submarinos. Entre 1 e 30 M€. | **Paulo Portas** (Ministro Defesa), como testemunha. | CDS | 2014-12-17: MP arquiva o processo, ilibando os 4 arguidos. | [1](https://pt.wikipedia.org/wiki/Caso_dos_submarinos), [2](https://www.jornaldenegocios.pt/economia/justica/detalhe/paulo_portas_ouvido_como_testemunha_no_ambito_do_processo_dos_submarinos), [3](https://www.jn.pt/seguranca/interior/caso-dos-submarinos-arquivado-4302167.html)|
+| 2004-2004 | Caso dos Submarinos   | Fraude na compra de 2 submarinos. Entre 1 e 30 M€. | **Hélder Bataglia** (empresário), Luís Horta e Costa e Miguel Horta e Costa (consultor, diferente do M.H.C. que foi CEO da PT), Pedro Ferreira Neto, **Paulo Portas** (Ministro Defesa), como testemunha. | CDS | 2014-12-17: MP arquiva o processo, ilibando os 4 arguidos. | [1](https://pt.wikipedia.org/wiki/Caso_dos_submarinos), [2](https://www.jornaldenegocios.pt/economia/justica/detalhe/paulo_portas_ouvido_como_testemunha_no_ambito_do_processo_dos_submarinos), [3](https://www.jn.pt/seguranca/interior/caso-dos-submarinos-arquivado-4302167.html)|
 | 2002-2004 | Tecnoforma            | Fraude com subsídios Europeus para formação nas autarquias. Até 6.7 M€. | **Passos Coelho** (sem cargo público). **Miguel Relvas** (Sec. Estado). | PSD | 2017-09-04: MP arquiva processo. | [1](https://observador.pt/2017/09/13/tecnoforma-ministerio-publico-arquiva-processo-contra-passos-coelho-e-miguel-relvas/), [2](http://dciap.ministeriopublico.pt/pagina/arquivamento-de-inquerito-tecnoforma) [3](https://sol.sapo.pt/artigo/588889/tecnoforma-mp-arquiva-caso-contra-parecer-da-comissao-europeia)|
 
 
