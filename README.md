@@ -4,7 +4,7 @@
 ## Abertos
 
 | Datas     | Caso                  | Descrição | Figuras Centrais | Partido | Cronologia judicial e política  | Links |
-| --------- | --------------------- | --------- | ---------------- | ------- | ---------------- | ------------------------------- | ----- |
+| --------- | --------------------- | --------- | ---------------- | ------- | ------------------------------- | ----- |
 | 2006-2015 | Operação Marquês      | 31 crimes. 34 M€ de luvas, 28 arguidos (9 são empresas) | **José Sócrates** (PM) | PS | 2017-10-11: Acusação formal. 2019-01-28: Instrução. | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
 | ?-?       | Operação Lex          | Influência sobre processos judiciais. | **Rui Rangel** (juiz), **Filipe Vieira** (presidente SLB) | NA | XXXXX | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
 | ?-?       | Operação Rota Final   | Corrupção na contratação de transportes públicos.  | **Álvaro Amaro** (autarca PSD), Francisco Lopes (autarca PSD/CDS), Hernâni Almeida (autarca PSD) | PSD, CDS | 2019-06-12: 5 constituidos arguidos. | [1](https://www.noticiasaominuto.com/pais/1270239/rota-final-cinco-arguidos-constituidos-incluindo-ex-autarca-do-psd) |
