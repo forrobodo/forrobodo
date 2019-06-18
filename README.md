@@ -8,8 +8,7 @@
 | 2006-2015 | Operação Marquês      | PS        | **José Sócrates** (PM) | 31 crimes. 34 M€ de luvas, 28 arguidos (9 são empresas) | 2017-10-11: Acusação formal. 2019-01-28: Instrução. | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
 | ?-?       | Operação Lex          | N/A       | **Rui Rangel** (juiz), **Filipe Vieira** (presidente SLB) | Influência sobre processos judiciais. | XXXXX | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
 | ?-?       | Operação Rota Final   | PSD       | **Álvaro Amaro** (juiz), Francisco Lopes (autarca PSD/CDS-PP), Hernâni Almeida (autarca PSD)  | Corrupção na contratação de transportes públicos.  | 2019-06-12: 5 constituidos arguidos. | [1](https://www.noticiasaominuto.com/pais/1270239/rota-final-cinco-arguidos-constituidos-incluindo-ex-autarca-do-psd) |
-
-| 2009      | Homicídio de Rosalina Ribeiro | PSD   | **Duarte Lima**   | Acusado de matar a milionária Rosalina Ribeiro e de roubar 5m€ da sua herança. |  | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) | 
+| 2009      | Homicídio e burla de Rosalina Ribeiro | PSD   | **Duarte Lima**   | Acusado de matar a milionária Rosalina Ribeiro e de roubar 5m€ da sua herança. | - | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) | 
 
 ## Fechados
 
