@@ -6,7 +6,7 @@
 | Caso                  | Descrição | Datas relevantes | Figuras Centrais | Links |
 | --------------------- | --------- | ---------------- | ---------------- | :---: |
 | Operação Marquês      | 31 crimes de corrupção durante o governo de Sócrates. 34 M€ de luvas, 28 arguidos (9 são empresas). | 2006-2015: Atos ilícitos.<br>2017-10-11: Acusação formal.<br>2019-01-28: Instrução. | PS: José Sócrates (PM). | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
-| Operação Lex          | Corrupção para influência sobre processos judiciais. | NA | Rui Rangel (juiz).<br>Filipe Vieira (presidente SLB). | ?-?: Atos ilícitos. | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
+| Operação Lex          | Corrupção para influência sobre processos judiciais. | NA | Rui Rangel (juiz).<br>Filipe Vieira (presidente SLB). | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
 | Operação Rota Final   | Corrupção na contratação de transportes públicos. | 2019-06-12: 5 constituidos arguidos. | PSD: Álvaro Amaro (autarca).<br>PSD: Hernâni Almeida (autarca).<br>PSD/CDS: Francisco Lopes (autarca). | [1](https://www.noticiasaominuto.com/pais/1270239/rota-final-cinco-arguidos-constituidos-incluindo-ex-autarca-do-psd) |
 | Caso Rosalina Ribeiro | Acusado de roubar 5m€ à milionária Rosalina Ribeiro, enquanto seu advgado. | 2001: Ato ilícito.<br>2019-01-07: Tribunal absolve Duarte Lima.<br>2019-06-12: Tribunal da Relação anula absolvição. | PSD: Duarte Lima. | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) |
 | Caso Rosalina Ribeiro | Acusado de matar a milionária Rosalina Ribeiro. | 2009: Rosalina é assassinada. | PSD: Duarte Lima. | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) |
