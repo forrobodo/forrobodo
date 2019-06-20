@@ -5,11 +5,11 @@
 
 | Caso                  | Descrição | Historial | Links |
 | --------------------- | --------- | ---------------- | :---: |
-| Operação Marquês      | 31 crimes de corrupção durante o governo de Sócrates. 34 M€ de luvas, 28 arguidos (9 são empresas). <p>- José Sócrates (PS): alegado corruptor enquanto Primeiro Ministro.</p> |2006-2015: Atos ilícitos.<br>2017-10-11: Acusação formal.<br>2019-01-28: Instrução. | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
-| Operação Lex          | Corrupção para influência sobre processos judiciais. <p>- Rui Rangel, juiz que alegadamente exerceu influência por dinheiro.<br>- Filipe Vieira, presidente SLB, que alegadamente mandatou o Juíz. | NA | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
-| Operação Rota Final   | Corrupção na contratação de transportes públicos. <p>- Álvaro Amaro (PSD): autarca que alegadamente praticou crime.<br>- Hernâni Almeida (PSD): autarca que alegadamente praticou crime.<br>PSD/CDS: Francisco Lopes (autarca). | 2019-06-12: 5 constituidos arguidos. | [1](https://www.noticiasaominuto.com/pais/1270239/rota-final-cinco-arguidos-constituidos-incluindo-ex-autarca-do-psd) |
-| Caso Rosalina Ribeiro | Acusado de roubar 5m€ à milionária Rosalina Ribeiro, enquanto seu advgado. <p>- Duarte Lima (PSD), que alegadamente roubou o dinheiro. | 2001: Ato ilícito.<br>2019-01-07: Tribunal absolve Duarte Lima.<br>2019-06-12: Tribunal da Relação anula absolvição. | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) |
-| Caso Rosalina Ribeiro | Acusado de matar a milionária Rosalina Ribeiro. <p>- Duarte Lima (PSD), que alegadamente mandou matar Rosalina. | 2009: Rosalina é assassinada. | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) |
+| Operação Marquês      | <p>31 crimes de corrupção durante o governo de Sócrates. 34 M€ de luvas, 28 arguidos (9 são empresas).</p><p>- José Sócrates (PS): alegado corruptor enquanto Primeiro Ministro.</p> |2006-2015: Atos ilícitos.<br>2017-10-11: Acusação formal.<br>2019-01-28: Instrução. | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
+| Operação Lex          | <p>Corrupção para influência sobre processos judiciais.</p><p>- Rui Rangel, juiz que alegadamente exerceu influência por dinheiro.<br>- Filipe Vieira, presidente SLB, que alegadamente mandatou o Juíz. | NA | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
+| Operação Rota Final   | <p>Corrupção na contratação de transportes públicos.</p><p>- Álvaro Amaro (PSD): autarca que alegadamente praticou crime.<br>- Hernâni Almeida (PSD): autarca que alegadamente praticou crime.<br>PSD/CDS: Francisco Lopes (autarca). | 2019-06-12: 5 constituidos arguidos. | [1](https://www.noticiasaominuto.com/pais/1270239/rota-final-cinco-arguidos-constituidos-incluindo-ex-autarca-do-psd) |
+| Caso Rosalina Ribeiro | <p>Acusado de roubar 5m€ à milionária Rosalina Ribeiro, enquanto seu advgado.</p><p>- Duarte Lima (PSD), que alegadamente roubou o dinheiro. | 2001: Ato ilícito.<br>2019-01-07: Tribunal absolve Duarte Lima.<br>2019-06-12: Tribunal da Relação anula absolvição. | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) |
+| Caso Rosalina Ribeiro | <p>Acusado de matar a milionária Rosalina Ribeiro.</p> <p>- Duarte Lima (PSD), que alegadamente mandou matar Rosalina. | 2009: Rosalina é assassinada. | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) |
 
 ## Fechados
 
