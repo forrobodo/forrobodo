@@ -4,7 +4,7 @@
 ## Abertos
 
 | Caso                  | Descrição (alegados crimes)   | Historial | Links |
-| --------------------- | :---------------------------- | --------- | :---: |
+| :-------------------- | :---------------------------- | :-------- | :---- |
 | Operação Marquês      | <p>31 crimes de corrupção durante o governo de Sócrates. 34 M€ de luvas, 28 arguidos (9 são empresas).</p><p>- José Sócrates (Primeiro Ministro do PS): favoreceu várias empresas a troco de dinheiro.</p> |2006-2015: Atos ilícitos.<br>2017-10-11: Acusação formal.<br>2019-01-28: Instrução. | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
 | Operação Lex          | <p>Corrupção para influência sobre processos judiciais.</p><p>- Rui Rangel (juiz): exerceu influência por dinheiro.<br>- Filipe Vieira (presidente SLB): corrompeu o Juíz. | NA | [1](https://pt.wikipedia.org/wiki/Operação_Marquês) |
 | Operação Rota Final   | <p>Corrupção na contratação de transportes públicos.</p><p>- Álvaro Amaro. Autarca do PSD: praticou crime.<br>- Hernâni Almeida. Autarca do PSD: praticou crime.<br>- Francisco Lopes. Autarca do PSD/CDS- Praticou crime. | 2019-06-12: 5 constituidos arguidos. | [1](https://www.noticiasaominuto.com/pais/1270239/rota-final-cinco-arguidos-constituidos-incluindo-ex-autarca-do-psd) |
