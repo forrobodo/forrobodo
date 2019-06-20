@@ -1,6 +1,12 @@
 # Forrobodó
 É o que é.
 
+Por introduzir
+- vistos gold
+- octapharma
+- bragaparque
+- moderna
+
 ## Abertos
 
 | Caso                  | Descrição dos *alegados* crimes   | Historial | Links |
