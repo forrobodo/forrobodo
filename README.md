@@ -5,7 +5,7 @@ Por introduzir
 - vistos gold
 - octapharma
 - bragaparque
-- moderna
+- Moderna
 
 ## Abertos
 
