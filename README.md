@@ -30,17 +30,27 @@ Operação Marquês
 Operação Lex
     - Descrição dos alegados crimes
         - Corrupção para influência sobre processos judiciais. 
+        - Processo que teve início na Operação Rota do Atlântico.
         - 17 acusados
-            - Rui Rangel, como juiz do Tribunal da Relação: exerceu influência por dinheiro.
-            - Fátima Galanda, como juiza do Tribunal da Relação: escreveu acordãos assinados pelo marido (Rui Rangel) e escondeu verbas elícitas dele.
-            - Luís Vaz das Neves, como presidente do Tribunal da Relação de Lisboa: exerceu influência por dinheiro.
-            - Filipe Vieira, como presidente do SLB: recebimento indevido de vantagem numa ação do Tribunal Administrativo e Fiscal de Sintra (1.6M€ em mais-valias); corrompeu o Juíz.
-            - José Veiga (empresário): recebimento indevido de vantagem; corrompeu o Juíz.
-
+            - Rui Rangel, como juiz do **Tribunal da Relação**: exerceu influência por dinheiro.
+            - Fátima Galanda, como juiza do **Tribunal da Relação**: escreveu acordãos assinados pelo ex-marido (Rui Rangel) e escondeu verbas elícitas dele.
+            - Luís Vaz das Neves, como presidente do **Tribunal da Relação** de Lisboa: exerceu influência por dinheiro.
+            - Luís Filipe Vieira, como presidente do **Benfica**: recebimento indevido de vantagem numa ação do Tribunal Administrativo e Fiscal de Sintra (1.6M€ em mais-valias); corrompeu o Juíz.
+            - Fernando Tavares, como vice-presidente do **Benfica**: intermediário entre Luís Filipe Vieira e Rui Rangel.
+            - Jorge Barroso, como advogado e assessor do presidente do Benfica: recebimento indevido de vantagem. 
+            - José Veiga, como empresário: recebimento indevido de vantagem; corrompeu o Juíz.
+            - José Santos Martins, como advogado de Rangel: corrompeu Rangel, colaborou na corrupção com os juízes e o funcionário judicial. Abuso de poder, falsificação de documentos, fraude fiscal e branqueamento.
+            - Octávio Correia, como funcionário judicial do Tribunal da Relação de Lisboa.
+            - Rita Figueira Filipe, enquanto atual mulher do juíz Rangel: participou nos crimes de fraude fiscal.
+            - Bruna Garcia Amaral, enquanto ex-namorada mulher do juíz Rangel e advogada estagiária: escreveu acordãos da Relação de Lisboa para Rangel e Galante.
+            - Rui Moura; Bernardo Santos Martins (filho de José Santos Martins); Albertino Figueira (familiar de Rita Figueira Filipe); Elsa Correia; Nuno Correia; Oscar Lopez: vários crimes.
     - Historial
+        - 2018-01-30: Notícia das detenções relacionadas com Operação Lex. 
         - 2020-09-18: Acusação formal pelo Ministério Público.
     - Links
-        - [Notícia da Acusação](https://www.publico.pt/2020/09/18/sociedade/noticia/dois-exjuizes-antigo-presidente-relacao-lisboa-17-acusados-operacao-lex-1931820)
+        - [2018-01-30: Notícia de primeiras detenções](https://www.publico.pt/2018/01/30/sociedade/noticia/pj-faz-buscas-a-casa-de-juiz-rui-rangel-1801262)
+        - [2020-09-18: Notícia da Acusação](https://www.publico.pt/2020/09/18/sociedade/noticia/dois-exjuizes-antigo-presidente-relacao-lisboa-17-acusados-operacao-lex-1931820)
+        - [2020-09-18: Notícia da Acusação](https://observador.pt/2020/09/18/rui-rangel-e-luis-filipe-vieira-acusados-do-crime-de-recebimento-de-indevido-de-vantagem/)
 
 Operação Rota Final
     - Descrição dos alegados crimes
