@@ -9,7 +9,7 @@ Por introduzir
 
 ## Abertos
 
-Operação Marquês     
+- Operação Marquês
     - Descrição dos alegados crimes: 
         - Favorecimento de empresas. 
         - O Grupo Lena recebeu obras públicas. 
@@ -27,7 +27,7 @@ Operação Marquês
         - [Operação Marquês na Wikipedia](https://pt.wikipedia.org/wiki/Operação_Marquês)
         - [Notícia relacionada com a venda da PT](https://www.jn.pt/arquivo/2006/interior/pt-vale-mais-do-que-a-oferta-feita-pela-sonae-535685.html)
 
-Operação Lex
+- Operação Lex
     - Descrição dos alegados crimes
         - Corrupção para influência sobre processos judiciais. 
         - Processo que teve início na Operação Rota do Atlântico.
@@ -52,11 +52,13 @@ Operação Lex
         - [2020-09-18: Notícia da Acusação](https://www.publico.pt/2020/09/18/sociedade/noticia/dois-exjuizes-antigo-presidente-relacao-lisboa-17-acusados-operacao-lex-1931820)
         - [2020-09-18: Notícia da Acusação](https://observador.pt/2020/09/18/rui-rangel-e-luis-filipe-vieira-acusados-do-crime-de-recebimento-de-indevido-de-vantagem/)
 
-Operação Rota Final
+- Operação Rota Final
     - Descrição dos alegados crimes
         - Corrupção na contratação de transportes públicos.
         - Álvaro Amaro, como autarca do **PSD**: praticou crime.
         - Hernâni Almeida, como autarca do **PSD**: praticou crime.<br>- Francisco Lopes, como autarca do **PSD**/CDS: Praticou crime. | 2019-06-12: 5 constituidos arguidos. | [1](https://www.noticiasaominuto.com/pais/1270239/rota-final-cinco-arguidos-constituidos-incluindo-ex-autarca-do-**PSD**) |
+
+
 | Caso Rosalina Ribeiro | Acusado de roubar 5m€ à milionária Rosalina Ribeiro, enquanto seu advgado.<br><br>- Duarte Lima, como advogado e enquanto deputado do **PSD**: Roubou o dinheiro. | 2001: Ato ilícito.<br>2019-01-07: Tribunal absolve Duarte Lima.<br>2019-06-12: Tribunal da Relação anula absolvição. | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) |
 | Caso Rosalina Ribeiro | Acusado de matar a milionária Rosalina Ribeiro.<br><br>- Duarte Lima, como advogado e enquanto deputado do **PSD**: Mandou matar Rosalina. | 2009: Rosalina é assassinada. | [1](https://pt.wikipedia.org/wiki/Duarte_Lima) |
 
